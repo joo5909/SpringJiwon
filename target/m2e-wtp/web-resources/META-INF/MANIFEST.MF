@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Jiwon
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dan
+Implementation-Vendor-Id: com.Jiwon
+Build-Jdk: 1.8.0_40
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: demo.JiwonApplication
+
